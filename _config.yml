@@ -28,9 +28,12 @@ twitter_username: AutoBotTTV
 github_username:  automationbotapp
 
 # Build settings
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
+#remote_theme: automationbotapp/midnight
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-them
 
 # Exclude from processing.
 # The following items will not be processed, by default.
