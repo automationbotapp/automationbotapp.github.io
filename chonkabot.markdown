@@ -162,7 +162,7 @@ permalink: /chonkabot/
 
   <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!schedule</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Curlie streams every M-F. For the most reliable stream updates, be sure to join the Curlie Qrew discord! https://bit.ly/3xjBuO7</td>
+    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Curlie streams every Monday - Friday evening (Mountain Time). For the most reliable stream updates, be sure to join the Curlie Qrew Discord! https://bit.ly/3xjBuO7</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
@@ -377,14 +377,6 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!skytechexe</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Check out the rest of the Skytech.exe Stream Team right here <3  https://www.twitch.tv/team/skytechexe</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!modfree</td>
     <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">catJAM We catJAM Cat catJAM We catJAM Jam catJAM No catJAM Mod catJAM No catJAM Ban catJAM</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
@@ -409,14 +401,6 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!skytech</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Skytech Gaming is a company based in California that prides itself in providing the best PC's on the market for performance, compatibility, value and aesthetics. Check out their PC's right here and be sure to share my ref. link! https://skytechgaming.com/?ref=CurlieQ</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!discord</td>
     <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Come hang out with the Qrew outside of stream! Get access to bonus streams, LFG channel for Pokemon Unite, and become a part of our community! https://discord.gg/kpxsfMT</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
@@ -434,7 +418,7 @@ permalink: /chonkabot/
 
   <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!youtube</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;"> Youtube video in progress so alerts are off for now, thank you for being here and we hope you enjoy the content! Don't forget to hit that subscribe button and stay tuned for future uploads: https://www.youtube.com/curlieq  </td>
+    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">YouTube video in progress so alerts are off for now. Thank you for being here and we hope you enjoy the content! Don't forget to hit that subscribe button and stay tuned for future uploads. Subcribe here now: https://www.youtube.com/@CurlieQ?sub_confirmation=1</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
@@ -625,14 +609,6 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!ladies</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Ladies-Only Lobbies on Wednesday nights! To participate you must join the event Discord first. Please Whisper a mod to request an invite.</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!pcg</td>
     <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">We have a chat game called @PokemonCommunityGame, which is what the timer on stream is for. Use !pokestart to get started! Check Curlie's Twitch page panels for more info.</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
@@ -706,7 +682,7 @@ permalink: /chonkabot/
 
   <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!podcast</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Check out Curlie's guest appearance in the new "You're On Fire" Podcast https://youtu.be/EJW_uolGH84</td>
+    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Check out Curlie's guest appearance in the "You're On Fire" Podcast https://youtu.be/EJW_uolGH84</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
@@ -793,24 +769,8 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!kricketq</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">curlieqKricketune For every 6 subs Curlie will spin the wheel to either reduce the cooldown or cost of the dreaded Kricketune sound alert channel points redeem! curlieqKricketune</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!bracket</td>
     <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">https://www.start.gg/tournament/unite-battlehub-december-double-trouble/event/unite-battlehub-seasonal-shield/brackets/1263563/1938236</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!team</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Curlie’s nuzlocke team is: Absol, Eldegoss, Scizor, Mamoswine, Sylveon, Trevenant, Venusaur, and Mr. Mime</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
@@ -857,48 +817,8 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!nickname</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Subscribe or gift a sub to have your name put on a wheel. Everytime Curlie catches a Pokémon she will spin the wheel and whoever it lands on is the person the Pokémon will be named after. If your name gets chosen multiple times, you may suggest PG names. *This does not include starter, legendary, or mythicals*</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!advblackfriday</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Save 50% or more on @ADVANCEDgg Black Friday Deals! https://advanced.gg/pages/black-friday/?ref=CurlieQ</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!spoilers</td>
     <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Remember, no shiny or evolution spoilers! Please allow Curlie to discover all the game has to offer in her own time curlieqDed</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!marker</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">/marker ${1:|' '}</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!giveaway</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Curlie is giving away $40 worth of AdvancedGG! Check out her tweet right here for information to enter: https://bit.ly/3ZFfIUl</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!thelist</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">If you put !sableye in the chat since 5:30pm on November 30th (MT), you are on the list! Congrats! curlieqLax</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
@@ -914,7 +834,7 @@ permalink: /chonkabot/
 
   <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!subperks</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">______________________________ curlieqJam SUB PERKS!__________________________ Subscribe to CurlieQ and get____________________ - access to 25+ exclusive emotes_______________ - ad free viewing_________________________________ - special discord role_____________________________ with private sub only channel____________________ - access to discord movie nights_________________ curlieqKricketune curlieqSlowbro curlieqBlastoise curlieqTsareena curlieqSwinub _</td>
+    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">curlieqJam SUB PERKS! Subscribe to CurlieQ and get: access to 25+ exclusive emotes; ad free viewing; special discord role with private sub only channel; and, access to discord movie nights curlieqKricketune curlieqSlowbro curlieqBlastoise curlieqTsareena curlieqSwinub</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
@@ -1113,30 +1033,6 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!charity</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Today we are raising money for survivors.org, victims of abuse. Please use !milestone & !incentive to see what your donation can redeem! If you would like to make a contribution, please go to https://events.softgiving.com/donate/CurlieQForSurvivors</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!incentive</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Our Incentives are: $10 Pick Curlie's Pokémon; $20 Open booster pack; $30 Pick the team comp; $50 Open a present! Also, every first time donator gets an energy card "ornament" on the tree with their name on it!</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!topdonor</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">The top donor of the charity stream will not only get to pick my Pokemon for 1 week in Unite, but they'll also get their hands on a Charizard UPC box!</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!shain</td>
     <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">F U</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
@@ -1177,14 +1073,6 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
-    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!teevee</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">pikaJAM goomySpin BLANKIES SquirtleJam zoruaHehe EspurrShooketh If you can't see these emotes, its because you don't have 7TV! Dont wait a million years to download it like curlie did. get the extension TODAY https://7tv.app/</td>
-    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
-    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
-  </tr>
-
-  <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!1</td>
     <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">psykey number 1 absol NA</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
@@ -1202,7 +1090,7 @@ permalink: /chonkabot/
 
   <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!7tv</td>
-    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">pikaJAM goomySpin BLANKIES SquirtleJam zoruaHehe EspurrShooketh If you can't see these emotes, its because you don't have 7TV! Dont wait a million years to download it like curlie did. get the extension TODAY https://7tv.app/</td>
+    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">pikaJAM goomySpin BLANKIES SquirtleJam zoruaHehe EspurrShooketh If you can't see these emotes, it's because you don't have 7TV! Don't wait a million years to download it like Curlie did. Get the extension TODAY! https://7tv.app/</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
@@ -1235,6 +1123,14 @@ permalink: /chonkabot/
   <tr>
     <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!krow</td>
     <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">I AM SO BAD AT THIS GAME</td>
+    <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
+  </tr>
+
+  <tr>
+    <td style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!uniteapi</td>
+    <td style="width: 40%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">https://uniteapi.dev/p/K0T01M8</td>
     <td style="width: 30%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">&nbsp;</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
