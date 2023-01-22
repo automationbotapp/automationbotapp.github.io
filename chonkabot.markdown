@@ -79,6 +79,8 @@ permalink: /chonkabot/
 
 
 </table>
+
+<p>Made with ❤ by OrganismZero</p>
 <h2>StreamElements</h2>
 <table style="background-color: rgba(66, 66, 66, 0.87); color: rgba(255, 255, 255, 0.87); text-align: left; width: 100%;">
   <tr>
@@ -1138,3 +1140,5 @@ permalink: /chonkabot/
 
 
 </table>
+
+<p>Made with ❤ by OrganismZero</p>
