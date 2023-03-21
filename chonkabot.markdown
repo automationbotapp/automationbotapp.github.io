@@ -55,6 +55,13 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
+    <td title="Ask a Pokémon Unite quiz question in the chat" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!popquiz</td>
+    <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Pop Quiz: ${quizQuestion} curlieqEspeon</td>
+    <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">No</td>
+  </tr>
+
+  <tr>
     <td title="Set the giveaway command for auto responses." style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!setgiveaway</td>
     <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">@${user} Giveaway command set to !${gaCommand}</td>
     <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Moderator</td>
