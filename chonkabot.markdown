@@ -408,6 +408,13 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
+    <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!curlieqttv</td>
+    <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">https://open.spotify.com/playlist/0CvhzFy37TcEe6T6BTojoy?si=494a7b3cb0b44745</td>
+    <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
+  </tr>
+
+  <tr>
     <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!curliesqueue</td>
     <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">https://www.reddit.com/r/CurliesQueue/</td>
     <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
@@ -1262,6 +1269,13 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
+    <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!qult</td>
+    <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">curlieqUwu WE'RE A QULT! curlieqUwu WELCOME TO QURCH! curlieqUwu</td>
+    <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
+  </tr>
+
+  <tr>
     <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!ralph</td>
     <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">I'M GONNA WRECK IT</td>
     <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
@@ -1789,6 +1803,13 @@ permalink: /chonkabot/
   <tr>
     <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!whapwhap</td>
     <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">https://clips.twitch.tv/SpicyDependableMomGrammarKing-Le-pQPs6dSZo0Lny</td>
+    <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
+  </tr>
+
+  <tr>
+    <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!wheel</td>
+    <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Our list of wheel comps for Pokémon Unite is here: https://docs.google.com/spreadsheets/d/1zxwP_oplyg5rO9t4WGc38hku3FvZlWuSEimalEz2mOg/edit?usp=sharing</td>
     <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
     <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
   </tr>
