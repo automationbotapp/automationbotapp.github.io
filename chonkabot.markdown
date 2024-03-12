@@ -1031,6 +1031,20 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
+    <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!minecraft</td>
+    <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;"> If you wish to join the Lotus8 Minecraft server here is the IP for BEDROCK users: play.mclotus8esports.com:25565 | the IP for JAVA players is: play.mclotus8esports.com</td>
+    <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
+  </tr>
+
+  <tr>
+    <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!minecraftdiscord</td>
+    <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">https://discord/.gg/fmpfnpxCEc</td>
+    <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
+  </tr>
+
+  <tr>
     <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!modfree</td>
     <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">catJAM We catJAM Cat catJAM We catJAM Jam catJAM No catJAM Mod catJAM No catJAM Ban catJAM</td>
     <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
