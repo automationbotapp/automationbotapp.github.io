@@ -1647,6 +1647,13 @@ permalink: /chonkabot/
   </tr>
 
   <tr>
+    <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!stinky</td>
+    <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">stinky, 🦨 our 💨🍔 goat. ♑ the cricket, 🦗 the mythic, the legendary. stinky 💩 will 💫🌸🧚🏻 go ❤️ down ⬇️ in 😈 history 🚫 as one 📷 of the greatests of all 💯 time. 🕐 how 😮 many 👬 letters 🔠 in 💗🏡 kricketune? 10. 🔟 how 😐 many ❔ letters 🔤 in 👉👏 stinky? 💩 6. ❓ what's 🆙 10-6? 4. ⛳ what's 🆙 4+4? 🧎‍♀️ 8. 💜 and that 👉👉👉 he 👨 did. 😼 stinky 💩 ate. 🍲😋</td>
+    <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
+    <td style="width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; overflow: hidden; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Yes</td>
+  </tr>
+
+  <tr>
     <td title="&nbsp;" style="font-family: monospace; width: 10%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">!strike</td>
     <td style="width: 65%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">curlieqUwu WE STRIKE AT DAWN curlieqUwu curlieqUwu WE STRIKE AT DAWN curlieqUwu curlieqUwu WE STRIKE AT DAWN curlieqUwu curlieqUwu WE STRIKE AT DAWN curlieqUwu curlieqUwu WE STRIKE AT DAWN curlieqUwu</td>
     <td style="width: 15%; max-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: normal; border-top: 1px rgba(0, 0, 0, 0.12) solid; border-left: 1px rgba(0, 0, 0, 0.12) solid; overflow-wrap: normal;">Viewer</td>
